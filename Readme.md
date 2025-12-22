@@ -2,7 +2,7 @@
 # Blockchain Internship   
 ## Nucleon | IIT Jammu 
 
-This study guide is designed to help you review and solidify your understanding of blockchain technology concepts, quiz questions, answer keys, essay prompts, and a comprehensive glossary of key terms.
+This study guide is designed to help us review and solidify our understanding of blockchain technology concepts, quiz questions, answer keys, essay prompts, and a comprehensive glossary of key terms whose answers were learnt through practical examples and demonstrations at the IIT Jammu.
 
 ## 📚 Table of Contents
 1. [Short-Answer Quiz](#short-answer-quiz)
@@ -131,3 +131,8 @@ This study guide is designed to help you review and solidify your understanding 
 ---
 
 Feel free to use this guide as a comprehensive resource for understanding blockchain fundamentals!
+
+---
+Acknowledgements:    
+
+Paramveer Nandal Sir and Blockchain Course from the edx platform.
